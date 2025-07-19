@@ -68,7 +68,7 @@ The system uses FaceNet, a state-of-the-art face recognition model that maps fac
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/yourusername/RingFaceID.git
+git clone https://github.com/SamuelLaki/RingFaceID.git
 cd RingFaceID
 ```
 
