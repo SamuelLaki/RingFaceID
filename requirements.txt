@@ -1,0 +1,10 @@
+tensorflow>=2.13.0,<3.0.0
+opencv-python>=4.8.0
+mtcnn>=0.1.1
+ring-doorbell>=0.8.0
+oauthlib>=3.2.0
+numpy>=1.21.0,<2.0.0
+scipy>=1.7.0
+scikit-learn>=1.0.0
+gTTS>=2.3.0
+playsound>=1.2.2
