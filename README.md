@@ -1,6 +1,6 @@
 # RingFaceID: Smart Doorbell Facial Recognition System
 
-> An intelligent face recognition system that integrates with Amazon Ring doorbells to automatically identify visitors and announce their names via text-to-speech.
+> An intelligent facial recognition system that integrates with Amazon Ring doorbells to automatically identify visitors and announce their names via text-to-speech.
 
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-2.13+-orange.svg)](https://tensorflow.org/)
