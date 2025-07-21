@@ -247,18 +247,3 @@ RingFaceID/
 ## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-## 👤 Author
-
-**Samuel Laki**
-- GitHub: [@SamuelLaki](https://github.com/SamuelLaki)
-
----
-
-## ⭐ Acknowledgments
-
-- OpenAI for inspiration in AI applications
-- The TensorFlow team for the excellent deep learning framework
-- The Ring community for API documentation and support 
